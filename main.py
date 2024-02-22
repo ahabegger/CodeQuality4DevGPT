@@ -35,3 +35,8 @@ print(f"Python Code Objects: {len(python_code_objects)}")
 print(f"Java Code Objects: {len(java_code_objects)}")
 print(f"Javascript Code Objects: {len(javascript_code_objects)}")
 
+# Lint the code objects
+print(python_code_objects[0])
+print(python_code_objects[0].lint_code())
+
+
