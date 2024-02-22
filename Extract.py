@@ -1,10 +1,23 @@
+"""
+Extract.py
+This file defines a function that will be used to extract the code objects from the DevGPT Dataset
+"""
+
+# Importing the internal dependencies
 from Code import Code
 
-def extract_from_commit(commit_sharings):
+def extract_data(json_object):
+    """
+    This function extracts the code objects from the json object
+    :param json_object:
+    :return: code_objects
+    """
+
     code_objects = []
+
     # Extracting the data from the DevGPT Dataset
-    for commit in commit_sharings["Sources"]:
-        chatgpt_sharings = commit["ChatgptSharing"]
+    for item in json_object["Sources"]:
+        chatgpt_sharings = item["ChatgptSharing"]
         for chatgpt_sharing in chatgpt_sharings:
             try:
                 title = chatgpt_sharing["Title"]
