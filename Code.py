@@ -3,10 +3,9 @@ Code.py
 This file defines a Code class that will be used to store the code objects from the DevGPT Dataset
 """
 
-# Importing the external dependencies
+import json
 import subprocess
-import tempfile
-import re
+import os
 
 
 class Code:
@@ -38,19 +37,28 @@ class Code:
             return "txt"
 
     def lint_code(self):
-        # Create a temporary file
-        with tempfile.NamedTemporaryFile(suffix='.' + self.code_language, delete=False) as temp:
+        # Get the proper bears for the code language
+        if self.code_language == "python":
+            bears = "PEP8Bear,PyCodeStyleBear"
+        elif self.code_language == "java":
+            bears = "JavaCheckStyleBear"
+        elif self.code_language == "javascript":
+            bears = "ESLintBear"
+        else:
+            return "No linter available for this language"
+
+        # Create a file
+        file_path = 'file' + '.' + self.get_code_extension()
+
+        with open(file_path, 'w') as file:
             # Write the code_content to the temporary file
-            temp.write(self.code_content.encode())
-            temp.flush()
+            file.write(self.code_content)
 
-            # Run coala on the temporary file
-            result = subprocess.run(['coala', '--files', temp.name, '--json'], capture_output=True, text=True)
+        # Use subprocess.run to execute coala and wait for it to complete
+        result = subprocess.run(['coala', '--files=file.py', '--bears=' + bears, '-I', '--json'],
+                                capture_output=True, text=True)
 
-            # Parse the output of coala to get the number of errors and error types
-            output = result.stdout
-            error_pattern = re.compile(r'"origin": "(.*?)", "message": "(.*?)"')
-            errors = error_pattern.findall(output)
+        # Remove the temporary file
+        os.remove(file_path)
 
-            # Return the number of errors and error types
-            return len(errors), {origin: sum(1 for error in errors if error[0] == origin) for origin, _ in errors}
+        return json.loads(result.stdout)
