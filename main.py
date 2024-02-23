@@ -5,25 +5,19 @@ This is the main file that will be run to start the program
 
 # Importing the external dependencies
 import json
+import os
 
 # Importing the internal dependencies
 from Extract import extract_data
 
-# Getting data from the DevGPT Dataset
-commit_sharings = json.load(open('DevGPT_Dataset/20231012_230826_commit_sharings.json', 'r'))
-hn_sharings = json.load(open('DevGPT_Dataset/20231012_232232_hn_sharings.json', 'r'))
-pr_sharings = json.load(open('DevGPT_Dataset/20231012_233628_pr_sharings.json', 'r'))
-file_sharings = json.load(open('DevGPT_Dataset/20231012_234250_file_sharings.json', 'r'))
-issue_sharings = json.load(open('DevGPT_Dataset/20231012_235128_issue_sharings.json', 'r'))
-discussion_sharings = json.load(open('DevGPT_Dataset/20231012_235320_discussion_sharings.json', 'r'))
-
 # Define List to store the code objects
-code_objects = extract_data(commit_sharings)
-code_objects += extract_data(hn_sharings)
-code_objects += extract_data(pr_sharings)
-code_objects += extract_data(file_sharings)
-code_objects += extract_data(issue_sharings)
-code_objects += extract_data(discussion_sharings)
+code_objects = []
+
+# Getting data from the DevGPT Dataset
+for file in os.listdir("DevGPT_Dataset"):
+    if file.endswith(".json"):
+        with open(os.path.join("DevGPT_Dataset", file), "r") as f:
+            code_objects += extract_data(json.load(f))
 
 # Find the type of code objects
 python_code_objects = [code for code in code_objects if code.is_language("python")]
