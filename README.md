@@ -10,20 +10,16 @@ ChatGPT, while a powerful tool, can sometimes generate code with quality issues.
 
 Linters are tools that analyze source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. In this project, we use a variety of linters for different programming languages to help identify  quality issues in the code.
 
-### Python Linters
+### Python Linter
 
-- **[Flake8](https://flake8.pycqa.org/en/latest/)**: Integrates tools like PyFlakes, pycodestyle, and Ned Batchelder's McCabe script. It checks for coding style, programming errors, and complex or buggy code.
 - **[Pylint](https://pypi.org/project/pylint/)**: Offers more comprehensive code analysis than Flake8, checking whether the module meets coding standards and suggesting improvements. It is highly customizable.
 
-### Java Linters
+### Java Linter
 
-- **[Checkstyle](https://checkstyle.sourceforge.io/)**: Focuses on coding standards and conventions. It is highly configurable and can be adapted to most coding standards.
 - **[PMD](https://pmd.github.io/)**: Looks for potential bugs, dead code, suboptimal code, and overcomplicated expressions. PMD includes CPD, a Copy/Paste Detector to find duplicate code.
-- **[SpotBugs](https://spotbugs.github.io/) (formerly FindBugs)**: Analyzes bytecode to identify potential errors in Java code, offering detailed feedback on bug patterns.
 
-### JavaScript Linters
+### JavaScript Linter
 
-- **[ESLint](https://eslint.org/)**: Highly customizable, allowing developers to configure rules for coding styles and errors. It supports modern JavaScript features and JSX, making it suitable for React development as well.
 - **[JSHint](https://www.jslint.com/)**: Offers flexibility in configuration to catch errors and enforce coding conventions in JavaScript codebases.
 
 ## Comparison and Patterns
@@ -35,3 +31,7 @@ We also compare the performance of these linters and identify common patterns in
 For more information on the mining challenge related to this project, visit the [MSR 2024 Mining Challenge](https://2024.msrconf.org/track/msr-2024-mining-challenge#challenge) page.
 
 To learn more about DevGPT, visit the [DevGPT GitHub repository](https://github.com/NAIST-SE/DevGPT).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
