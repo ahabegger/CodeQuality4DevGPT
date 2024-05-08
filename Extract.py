@@ -6,6 +6,7 @@ This file defines a function that will be used to extract the code objects from 
 # Importing the internal dependencies
 from Code import Code
 
+
 def extract_data(json_object):
     """
     This function extracts the code objects from the json object
@@ -45,7 +46,9 @@ def extract_data(json_object):
                     except KeyError:
                         code_type = "Unknown"
                     try:
+                        # Convert to UTF-8
                         code = code_object["Content"]
+                        code = code.encode('utf-8').decode('utf-8')
                     except KeyError:
                         code = "No Code Found"
 
