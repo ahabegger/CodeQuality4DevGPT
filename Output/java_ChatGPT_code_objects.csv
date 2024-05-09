@@ -1,0 +1,589 @@
+Title,Model,Code Type,LOC,Errors,UnnecessaryLocalBeforeReturn,NoPackage,UseLocaleWithCaseConversions,LiteralsFirstInComparisons,UnusedPrivateMethod,UnusedLocalVariable,UnusedPrivateField,UncommentedEmptyConstructor,UnusedFormalParameter,EmptyControlStatement,LooseCoupling,UseUtilityClass,UnnecessaryImport,Other Errors
+Write Parquet File Java,Default,java,37,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+User Inquires About Wellbeing.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+User Inquires About Wellbeing.,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,22,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Default,java,35,"{'NoPackage': 1, 'UnusedLocalVariable': 1}",0,1,0,0,0,1,0,0,0,0,0,0,0,0
+,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Java class in container,Default,java,29,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Java class in container,Default,java,78,"{'UnnecessaryImport': 2, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,2,0
+Retrieve public methods programmatically,Default,java,29,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Instrument Spring Bean Logging,Default,java,13,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,44,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,15,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Load services by property.,Default,java,22,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Load services by property.,Default,java,11,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IntelliJ QuPath Extension Code,Default,java,55,"{'NoPackage': 1, 'UnusedPrivateField': 1}",0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Bean Retrieval: Class Details,Default,java,21,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spring Class Package,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spring Class Package,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bean Retrieval: Class Details,Default,java,21,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setting Test Environment Variables,Default,java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setting Test Environment Variables,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Replace Variables in Java,Default,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OpenRewrite: Migrate Apache HTTP,Default,java,58,"{'UnnecessaryImport': 1, 'NoPackage': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Count Beans per Jar,Default,java,36,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Exceção para objetos não encontrados.,Default,java,6,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Exceção para objetos não encontrados.,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exceção para objetos não encontrados.,Default,java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Immutable Map in Java,Default,java,29,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Android File Access Issues,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android File Access Issues,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default,java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default,java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default,java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default,java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default,java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default,java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+User Inquires About Wellbeing.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+User Inquires About Wellbeing.,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,22,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Default,java,35,"{'NoPackage': 1, 'UnusedLocalVariable': 1}",0,1,0,0,0,1,0,0,0,0,0,0,0,0
+,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Java class in container,Default,java,29,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Java class in container,Default,java,78,"{'UnnecessaryImport': 2, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,2,0
+Android RPS Game App.,Default,java,49,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android RPS Game App.,Default,java,73,"{'LiteralsFirstInComparisons': 3, 'UseLocaleWithCaseConversions': 1}",0,0,1,3,0,0,0,0,0,0,0,0,0,0
+Retrieve public methods programmatically,Default,java,29,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Instrument Spring Bean Logging,Default,java,13,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,44,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,15,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Load services by property.,Default,java,22,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Load services by property.,Default,java,11,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,Default,java,11,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,Default,java,9,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bean Retrieval: Class Details,Default,java,21,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spring Class Package,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spring Class Package,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bean Retrieval: Class Details,Default,java,21,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OpenRewrite: Migrate Apache HTTP,Default,java,58,"{'UnnecessaryImport': 1, 'NoPackage': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Setting Test Environment Variables,Default,java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setting Test Environment Variables,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Replace Variables in Java,Default,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IntelliJ QuPath Extension Code,Default,java,55,"{'NoPackage': 1, 'UnusedPrivateField': 1}",0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Count Beans per Jar,Default,java,36,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Immutable Map in Java,Default,java,29,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Exceção para objetos não encontrados.,Default,java,6,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Exceção para objetos não encontrados.,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exceção para objetos não encontrados.,Default,java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android File Access Issues,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android File Access Issues,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default,java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default,java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default,java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default,java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default,java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default,java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Write Parquet File Java,Default,java,37,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Fixing Point Deserialization,Default,java,5,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1, 'UnusedFormalParameter': 2}",0,1,0,0,0,0,0,1,2,0,0,0,0,0
+Fixing Point Deserialization,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Deserialization,Default,java,10,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Deserialization,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avoid MDC in Concurrent Loggings,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avoid MDC in Concurrent Loggings,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avoid MDC in Concurrent Loggings,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+User Inquires About Wellbeing.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+User Inquires About Wellbeing.,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,Default,java,22,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Default,java,35,"{'NoPackage': 1, 'UnusedLocalVariable': 1}",0,1,0,0,0,1,0,0,0,0,0,0,0,0
+,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Java class in container,Default,java,29,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Java class in container,Default,java,78,"{'UnnecessaryImport': 2, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,2,0
+Agregar soporte JSP programáticamente,Default,java,6,{'UnnecessaryImport': 5},0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Agregar soporte JSP programáticamente,Default,java,44,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Java LRU Cache using LinkedHashMap,Default,java,34,"{'NoPackage': 1, 'LooseCoupling': 1}",0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Android RPS Game App.,Default,java,49,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android RPS Game App.,Default,java,73,"{'LiteralsFirstInComparisons': 3, 'UseLocaleWithCaseConversions': 1}",0,0,1,3,0,0,0,0,0,0,0,0,0,0
+Retrieve public methods programmatically,Default,java,29,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Instrument Spring Bean Logging,Default,java,13,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Manejo global de errores,Default,java,12,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manejo global de errores,Default,java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,6,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,4,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,4,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,60,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,18,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,4,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,54,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,19,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,13,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,53,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,86,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,81,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,86,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,64,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,30,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,85,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,28,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,62,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,22,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,44,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,26,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,69,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,101,"{'UnnecessaryImport': 1, 'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Generar Código Ejecución ASM,Default,java,64,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,4,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,12,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,4,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,10,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Generar Código Ejecución ASM,Default,java,18,"{'UnnecessaryImport': 1, 'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,1,0
+Generar Código Ejecución ASM,Default,java,9,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Generar Código Ejecución ASM,Default,java,95,"{'NoPackage': 1, 'UseUtilityClass': 1, 'UnusedLocalVariable': 1}",0,1,0,0,0,1,0,0,0,0,0,1,0,0
+Create Android Sticker App,Default,java,44,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,15,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Run Spring Boot App: Exclude Auto-Config,Default,java,7,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+YouTube Download Module Example,Default,java,37,"{'UnnecessaryImport': 1, 'LiteralsFirstInComparisons': 2, 'UnusedLocalVariable': 2, 'EmptyControlStatement': 1}",0,0,0,2,0,2,0,0,0,1,0,0,1,0
+Load services by property.,Default,java,22,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Load services by property.,Default,java,11,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Configuring JSP in Tomcat,Default,java,24,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Configuring JSP in Tomcat,Default,java,7,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+OpenRewrite: Migrate Apache HTTP,Default,java,58,"{'UnnecessaryImport': 1, 'NoPackage': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Android Adblocker with LLM,Default,java,11,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,Default,java,9,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bean Retrieval: Class Details,Default,java,21,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spring Class Package,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spring Class Package,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bean Retrieval: Class Details,Default,java,21,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setting Test Environment Variables,Default,java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setting Test Environment Variables,Default,java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Replace Variables in Java,Default,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,14,{'UnnecessaryImport': 13},0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Maven Dependency Retrieval.,Default,java,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maven Dependency Retrieval.,Default,java,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Count Beans per Jar,Default,java,36,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+IntelliJ QuPath Extension Code,Default,java,55,"{'NoPackage': 1, 'UnusedPrivateField': 1}",0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Immutable Map in Java,Default,java,29,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Exceção para objetos não encontrados.,Default,java,6,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Exceção para objetos não encontrados.,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exceção para objetos não encontrados.,Default,java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android File Access Issues,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android File Access Issues,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default,java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default,java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default,java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default,java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default,java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default,java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default,java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default,java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Write Parquet File Java,Default,java,37,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default (GPT-3.5),java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default (GPT-3.5),java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default (GPT-3.5),java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default (GPT-3.5),java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default (GPT-3.5),java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,52,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default (GPT-3.5),java,50,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,27,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+New chat,Default (GPT-3.5),java,7,"{'NoPackage': 1, 'UnusedPrivateField': 3}",0,1,0,0,0,0,3,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,67,"{'NoPackage': 1, 'UnnecessaryLocalBeforeReturn': 1, 'UnusedLocalVariable': 1}",1,1,0,0,0,1,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,42,"{'NoPackage': 1, 'UseUtilityClass': 1, 'LiteralsFirstInComparisons': 1}",0,1,0,1,0,0,0,0,0,0,0,1,0,0
+New chat,Default (GPT-3.5),java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,16,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,31,"{'NoPackage': 1, 'UnusedPrivateField': 2}",0,1,0,0,0,0,2,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,70,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,76,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,31,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,36,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,40,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,45,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,25,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,31,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,29,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,40,"{'NoPackage': 1, 'UnusedPrivateField': 3, 'UncommentedEmptyConstructor': 1}",0,1,0,0,0,0,3,1,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,23,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+New chat,Default (GPT-3.5),java,36,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,33,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+New chat,Default (GPT-3.5),java,24,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Write Parquet File Java,GPT-4,java,37,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Unit Test Order Conventions,GPT-4,java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Deserialization,GPT-4,java,5,"{'NoPackage': 1, 'UncommentedEmptyConstructor': 1, 'UnusedFormalParameter': 2}",0,1,0,0,0,0,0,1,2,0,0,0,0,0
+Fixing Point Deserialization,GPT-4,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Deserialization,GPT-4,java,10,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Deserialization,GPT-4,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Item Cooldowns and Enhancements,Default (GPT-3.5),java,10,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Item Cooldowns and Enhancements,Default (GPT-3.5),java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Item Cooldowns and Enhancements,Default (GPT-3.5),java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Item Cooldowns and Enhancements,Default (GPT-3.5),java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Item Cooldowns and Enhancements,Default (GPT-3.5),java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Item Cooldowns and Enhancements,Default (GPT-3.5),java,25,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Item Cooldowns and Enhancements,Default (GPT-3.5),java,24,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avoid MDC in Concurrent Loggings,GPT-4,java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+User Inquires About Wellbeing.,Default (GPT-3.5),java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+User Inquires About Wellbeing.,Default (GPT-3.5),java,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,GPT-4,java,18,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,GPT-4,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixing Point Generation Issue,GPT-4,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Java class in container,Default,java,29,"{'UnnecessaryImport': 1, 'NoPackage': 1}",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+,Default,java,35,"{'NoPackage': 1, 'UnusedLocalVariable': 1}",0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Agregar soporte JSP programáticamente,Default (GPT-3.5),java,6,{'UnnecessaryImport': 5},0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Agregar soporte JSP programáticamente,Default (GPT-3.5),java,44,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Android RPS Game App.,Default (GPT-3.5),java,49,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android RPS Game App.,Default (GPT-3.5),java,73,"{'LiteralsFirstInComparisons': 3, 'UseLocaleWithCaseConversions': 1}",0,0,1,3,0,0,0,0,0,0,0,0,0,0
+Java Base Object Factory,GPT-4,java,48,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Retrieve public methods programmatically,Default,java,29,"{'NoPackage': 1, 'UnusedPrivateMethod': 1}",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Instrument Spring Bean Logging,Default,java,13,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default (GPT-3.5),java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Table definition correction.,Default (GPT-3.5),java,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default (GPT-3.5),java,44,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default (GPT-3.5),java,15,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default (GPT-3.5),java,8,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default (GPT-3.5),java,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Create Android Sticker App,Default (GPT-3.5),java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manejo global de errores,Default (GPT-3.5),java,12,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Run Spring Boot App: Exclude Auto-Config,Default (GPT-3.5),java,7,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+YouTube Download Module Example,Default (GPT-3.5),java,37,"{'UnnecessaryImport': 1, 'LiteralsFirstInComparisons': 2, 'UnusedLocalVariable': 2, 'EmptyControlStatement': 1}",0,0,0,2,0,2,0,0,0,1,0,0,1,0
+Load services by property.,Default,java,22,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Load services by property.,Default,java,11,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Java LRU Cache using LinkedHashMap,GPT-4,java,34,"{'NoPackage': 1, 'LooseCoupling': 1}",0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Configuring JSP in Tomcat,Default (GPT-3.5),java,24,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Configuring JSP in Tomcat,Default (GPT-3.5),java,7,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,GPT-4,java,11,{'NoPackage': 1},0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,GPT-4,java,9,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,GPT-4,java,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android Adblocker with LLM,GPT-4,java,8,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spring Class Package,Default,java,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setting Test Environment Variables,Default,java,7,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Replace Variables in Java,Default,java,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Count Beans per Jar,Default,java,36,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Immutable Map in Java,Default (GPT-3.5),java,29,"{'NoPackage': 1, 'UseUtilityClass': 1}",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Android File Access Issues,GPT-4,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Android File Access Issues,GPT-4,java,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0
