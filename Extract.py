@@ -4,7 +4,7 @@ This file defines a function that will be used to extract the code objects from 
 """
 
 # Importing the internal dependencies
-from Code import Code
+from CodeClass import Code
 
 
 def extract_data(json_object):
@@ -29,9 +29,6 @@ def extract_data(json_object):
             except KeyError:
                 model = "Unknown"
 
-            print(f"Title: {title}")
-            print(f"Model: {model}")
-
             try:
                 conservations = chatgpt_sharing["Conversations"]
             except KeyError:
@@ -51,8 +48,6 @@ def extract_data(json_object):
                         code = code.encode('utf-8').decode('utf-8')
                     except KeyError:
                         code = "No Code Found"
-
-                    print(f"Code Type: {code_type}")
 
                     code_objects.append(Code(code, code_type, model, title))
 
