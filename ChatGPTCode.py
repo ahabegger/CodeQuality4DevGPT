@@ -16,9 +16,11 @@ code_objects = []
 
 # Getting data from the DevGPT Dataset
 for file in os.listdir("DevGPT_Dataset"):
-    if file.endswith(".json"):
+    try:
         with open(os.path.join("DevGPT_Dataset", file), "r") as f:
             code_objects += extract_data(json.load(f))
+    except:
+        continue
 
 # Find the type of code objects
 python_code_objects = [code for code in code_objects if code.is_language("python")]
@@ -33,6 +35,7 @@ print(f"Python Code Objects: {python_total_code}")
 print(f"Java Code Objects: {java_total_code}")
 print(f"Javascript Code Objects: {javascript_total_code}")
 
+
 # Lint Python Code Objects
 print('-' * 50)
 print("ChatGPT Python Code Linting")
@@ -43,8 +46,15 @@ count = 1
 linting_failure = 0
 for code in python_code_objects:
     print(f"({count}/{python_total_code}) {code.title}")
+    count += 1
     try:
         code.lint()
+        if code.errors is None:
+            print(f"Failure Linting: {code.title} - {code.errors}")
+            linting_failure += 1
+        if 'astroid-error' in code.errors.keys():
+            print(f"Failure Linting: {code.title} - astroid-error")
+            linting_failure += 1
     except Exception as e:
         print(f"Failure Linting: {code.title} - Action Aborted - {e}")
         linting_failure += 1
@@ -72,6 +82,7 @@ count = 1
 linting_failure = 0
 for code in java_code_objects:
     print(f"({count}/{java_total_code}) {code.title}")
+    count += 1
     try:
         code.lint()
     except Exception as e:
@@ -101,6 +112,7 @@ count = 1
 linting_failure = 0
 for code in javascript_code_objects:
     print(f"({count}/{javascript_total_code}) {code.title}")
+    count += 1
     try:
         code.lint()
     except Exception as e:
