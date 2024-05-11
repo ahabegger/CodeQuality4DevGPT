@@ -1,0 +1,126 @@
+Title,Model,Code Type,LOC,Errors,Missing Semicolon,Unexpected Comma,Unnecessary Semicolon,Unclosed Regular Expression,String Formatting,Confusing Syntax,Closing Pair not Used,Labelling Error,Missing Initializer for Constant,Redeclaring Variables,Overriding Constants,Used before Declared,Use Restricted Word,Incorrect Identifier,Module Code Error,General Import Error,Operator Error,Unlocal Variable Call in Function,Dot Notation,Class properties Outside Methods,Duplicate Class Methods,Other Error
+statsigstatus,https://raw.githubusercontent.com/statsig-io/statsigstatus/main/index.js,javascript,290,{'other error': 11},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+expediagroup.github.io,https://raw.githubusercontent.com/ExpediaGroup/expediagroup.github.io/main/jest.config.js,javascript,28,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+originals,https://raw.githubusercontent.com/ordzaar/originals/main/.lintstagedrc.js,javascript,5,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mocha-json-serialize-reporter,https://raw.githubusercontent.com/plasticrake/mocha-json-serialize-reporter/master/.eslintrc.js,javascript,19,{'other error': 2},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+tauri-plugin-decorum,https://raw.githubusercontent.com/clearlysid/tauri-plugin-decorum/main/rollup.config.js,javascript,32,{'missing semicolon': 6},6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AdGuardFiltersStats,https://raw.githubusercontent.com/AdguardTeam/AdGuardFiltersStats/master/babel.config.js,javascript,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+stepanenko3,https://raw.githubusercontent.com/stepanenko3/stepanenko3/main/index.js,javascript,505,{'missing semicolon': 2},2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+muzammilshakir,https://raw.githubusercontent.com/muzammilshakir/muzammilshakir/main/index.js,javascript,56,{'missing semicolon': 3},3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GDSC-JU-Website,https://raw.githubusercontent.com/GDSC-Jadavpur-University/GDSC-JU-Website/main/tailwind.config.js,javascript,26,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+switcher-client-js,https://raw.githubusercontent.com/switcherapi/switcher-client-js/master/switcher-client.js,javascript,27,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+josephfusco,https://raw.githubusercontent.com/josephfusco/josephfusco/master/build_readme.js,javascript,97,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+laalquimia.github.io,https://raw.githubusercontent.com/LaAlquimia/laalquimia.github.io/main/svelte.config.js,javascript,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LiveCodingPortfolio,https://raw.githubusercontent.com/Uchida16104/LiveCodingPortfolio/master/IO%20of%20Audio%20%26%20Video%20with%20p5.js,javascript,84,"{'other error': 2, 'missing semicolon': 2}",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Comp-490-Web-App-Arcade,https://raw.githubusercontent.com/Jingram02525/Comp-490-Web-App-Arcade/main/gameboy_emulator.js,javascript,61,"{'incorrect identifier': 1, 'closing pair not used': 1, 'missing semicolon': 1}",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+datetime,https://raw.githubusercontent.com/Zlkcyber/datetime/main/time.js,javascript,35,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+summarize-news,https://raw.githubusercontent.com/nborbit/summarize-news/master/postcss.config.js,javascript,7,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+meteor-packages,https://raw.githubusercontent.com/quavedev/meteor-packages/main/prettier.config.js,javascript,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IcedVanillaLatte.github.io,https://raw.githubusercontent.com/IcedVanillaLatte/IcedVanillaLatte.github.io/master/banner.js,javascript,20,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+usrbg,https://raw.githubusercontent.com/AutumnVN/usrbg/main/index.js,javascript,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+be_grateful,https://raw.githubusercontent.com/puntorigen/be_grateful/main/markdown.config.js,javascript,63,{'missing semicolon': 2},2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SBM-ElectricMeter,https://raw.githubusercontent.com/GrupoProcapi/SBM-ElectricMeter/main/postcss.config.js,javascript,7,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2m4u,https://raw.githubusercontent.com/2M4U/2m4u/main/fetchData.js,javascript,36,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iucg-insights,https://raw.githubusercontent.com/build-umass/iucg-insights/main/server.js,javascript,481,"{'missing semicolon': 110, 'other error': 2}",110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+docs,https://raw.githubusercontent.com/GreptimeTeam/docs/main/commitlint.config.js,javascript,4,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+discrapper-canary,https://raw.githubusercontent.com/Wumpus-Central/discrapper-canary/main/routes.js,javascript,14154,"{'confusing syntax': 501, 'missing semicolon': 538, 'other error': 95, 'incorrect identifier': 1, 'unlocal variable call in function': 1}",538,0,0,0,0,501,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,95
+Last-EarthQuake,https://raw.githubusercontent.com/an-halim/Last-EarthQuake/master/index.js,javascript,44,{'other error': 2},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+proteinpaint,https://raw.githubusercontent.com/stjude/proteinpaint/master/.prettierrc.js,javascript,9,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jrzvnn,https://raw.githubusercontent.com/jrzvnn/jrzvnn/main/hello.js,javascript,22,"{'incorrect identifier': 2, 'operator error': 1, 'other error': 3, 'missing semicolon': 2}",2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,3
+ip_ports,https://raw.githubusercontent.com/parserpp/ip_ports/main/index.js,javascript,10,{'missing semicolon': 4},4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bsn-tool,https://raw.githubusercontent.com/willemverbuyst/bsn-tool/develop/cypress.config.js,javascript,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+teihub,https://raw.githubusercontent.com/philipallfrey/teihub/main/load-from-directory.js,javascript,145,"{'missing semicolon': 2, 'unnecessary semicolon': 1}",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+motrpac-frontend,https://raw.githubusercontent.com/MoTrPAC/motrpac-frontend/dev/.eslintrc.js,javascript,30,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZincJS,https://raw.githubusercontent.com/alan-wu/ZincJS/develop/webpack.frontend.js,javascript,55,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+vulcan,https://raw.githubusercontent.com/aziontech/vulcan/main/jest.global.setup.js,javascript,21,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Google-Trend,https://raw.githubusercontent.com/caliwyr/Google-Trend/main/main.js,javascript,7,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+icons.binaryblazer.me,https://raw.githubusercontent.com/binary-blazer/icons.binaryblazer.me/main/.eslintrc.js,javascript,27,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+news,https://raw.githubusercontent.com/ePlus-DEV/news/main/babel.config.js,javascript,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gin-vue-admin.com,https://raw.githubusercontent.com/flipped-aurora/gin-vue-admin.com/master/tailwind.config.js,javascript,16,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+package-manager-benchmark,https://raw.githubusercontent.com/devmirza-bot/package-manager-benchmark/main/benchmark.js,javascript,88,"{'unlocal variable call in function': 1, 'missing semicolon': 2}",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+react-summernote,https://raw.githubusercontent.com/iq-service-inc/react-summernote/master/postcss.config.js,javascript,3,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+status-page,https://raw.githubusercontent.com/Zaid-maker/status-page/main/main.js,javascript,478,{'other error': 7},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+status-page,https://raw.githubusercontent.com/devmirza-bot/status-page/main/main.js,javascript,478,{'other error': 7},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+typescript-library-template,https://raw.githubusercontent.com/donmccurdy/typescript-library-template/main/eslint.config.js,javascript,23,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+frameworks-benchmark,https://raw.githubusercontent.com/devmirza-bot/frameworks-benchmark/main/benchmark.js,javascript,124,{'missing semicolon': 3},3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+antd-management-fast-framework,https://raw.githubusercontent.com/kityandhero/antd-management-fast-framework/master/babel.config.js,javascript,12,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SOLANA_SNIPER_BOT,https://raw.githubusercontent.com/HURRYNO/SOLANA_SNIPER_BOT/main/buy.js,javascript,301,"{'unlocal variable call in function': 1, 'other error': 1}",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+terminal,https://raw.githubusercontent.com/thinkjazz/terminal/master/updater.js,javascript,24,{'missing semicolon': 11},11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SVG,https://raw.githubusercontent.com/IMTR0J4N/SVG/master/updater.js,javascript,24,{'missing semicolon': 11},11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+leo,https://raw.githubusercontent.com/brave/leo/main/svelte.config.js,javascript,29,{'missing semicolon': 7},7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+i-Konnect,https://raw.githubusercontent.com/BestSprinters/i-Konnect/main/tailwind.config.js,javascript,44,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+swmg,https://raw.githubusercontent.com/mariev718/swmg/main/gen.js,javascript,52,{'missing semicolon': 4},4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+carbon-status,https://raw.githubusercontent.com/Louciole/carbon-status/main/index.js,javascript,253,{'other error': 11},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+bip44-constants,https://raw.githubusercontent.com/bitcoinjs/bip44-constants/master/update.js,javascript,53,{'missing semicolon': 30},30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lf-landscape,https://raw.githubusercontent.com/jmertic/lf-landscape/main/server.js,javascript,11,{'other error': 1},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+jquery.peekABar,https://raw.githubusercontent.com/kunalnagar/jquery.peekABar/master/Gruntfile.js,javascript,89,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+node-get-selected-text,https://raw.githubusercontent.com/yetone/node-get-selected-text/main/index.js,javascript,316,{'missing semicolon': 110},110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+qinyihao,https://raw.githubusercontent.com/qinyihao/qinyihao/master/main.js,javascript,377,"{'missing semicolon': 77, 'other error': 44, 'unlocal variable call in function': 1}",77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,44
+6ixfalls,https://raw.githubusercontent.com/6ixfalls/6ixfalls/main/index.js,javascript,197,{'other error': 1},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+weibo-hot-search,https://raw.githubusercontent.com/daifee/weibo-hot-search/main/jest.config.js,javascript,198,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lt27_COAR__IKER-MARCO,https://raw.githubusercontent.com/4GeeksAcademy/lt27_COAR__IKER-MARCO/Develop/webpack.prod.js,javascript,16,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NodeLink,https://raw.githubusercontent.com/PerformanC/NodeLink/main/constants.js,javascript,98,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UTLeetcoder,https://raw.githubusercontent.com/XFTTech/UTLeetcoder/main/update.js,javascript,28,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+help-our-hawkers,https://raw.githubusercontent.com/datascapesg/help-our-hawkers/main/postprocess.js,javascript,66,"{'missing semicolon': 26, 'other error': 2}",26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+lfenergy-landscape,https://raw.githubusercontent.com/lf-energy/lfenergy-landscape/main/server.js,javascript,11,{'other error': 1},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Revista-Peritazgo-2024,https://raw.githubusercontent.com/KevinLatino/Revista-Peritazgo-2024/master/postcss.config.js,javascript,7,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malicious-URLs-DB,https://raw.githubusercontent.com/ThatSINEWAVE/Malicious-URLs-DB/main/script.js,javascript,91,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+blangs.github.io,https://raw.githubusercontent.com/blangs/blangs.github.io/main/banner.js,javascript,20,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+puppeteer-page-metrics,https://raw.githubusercontent.com/9034725985/puppeteer-page-metrics/master/index.js,javascript,203,{'missing semicolon': 52},52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ioBroker.melcloud,https://raw.githubusercontent.com/Black-Thunder/ioBroker.melcloud/master/main.js,javascript,622,{'other error': 8},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Next_jstest,https://raw.githubusercontent.com/Rajvirnahar/Next_jstest/main/playground-1.mongodb.js,javascript,44,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tidelevel,https://raw.githubusercontent.com/code4fukui/tidelevel/main/make-stations.js,javascript,34,"{'other error': 3, 'missing semicolon': 2, 'incorrect identifier': 1}",2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3
+monocart-coverage-reports,https://raw.githubusercontent.com/cenfun/monocart-coverage-reports/main/stylelint.config.js,javascript,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HypixelTracking,https://raw.githubusercontent.com/HypixelDatabase/HypixelTracking/master/index.js,javascript,230,"{'other error': 5, 'missing semicolon': 11, 'unlocal variable call in function': 2}",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5
+KianKit,https://raw.githubusercontent.com/cowboycodr/KianKit/main/svelte.config.js,javascript,22,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bihelix-wallet-sdk,https://raw.githubusercontent.com/bihelix-io/bihelix-wallet-sdk/main/index.js,javascript,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rizkytegar,https://raw.githubusercontent.com/rizkytegar/rizkytegar/main/postcss.config.js,javascript,7,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+botpxlver,https://raw.githubusercontent.com/gvoze32/botpxlver/main/indexv1.js,javascript,120,"{'missing semicolon': 3, 'unlocal variable call in function': 1}",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+checksum,https://raw.githubusercontent.com/westberliner/checksum/master/.eslintrc.js,javascript,6,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nicober1.github.io,https://raw.githubusercontent.com/nicober1/nicober1.github.io/main/.ncurc.js,javascript,4,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+redux-fetch-middleware,https://raw.githubusercontent.com/travi/redux-fetch-middleware/master/commitlint.config.js,javascript,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+react-in-isolation,https://raw.githubusercontent.com/travi/react-in-isolation/master/.remarkrc.js,javascript,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+proxylist,https://raw.githubusercontent.com/Skiddle-ID/proxylist/main/config.js,javascript,11,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+todolist,https://raw.githubusercontent.com/multiverseweb/todolist/main/hello.js,javascript,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+wsplit,https://raw.githubusercontent.com/kenany/wsplit/master/index.js,javascript,19,"{'other error': 3, 'dot notation': 4}",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3
+daniellaera,https://raw.githubusercontent.com/daniellaera/daniellaera/main/index.js,javascript,24,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+alexiscolin,https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/index.js,javascript,128,"{'missing semicolon': 5, 'unnecessary semicolon': 4, 'dot notation': 1}",5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+currency-api,https://raw.githubusercontent.com/ismartcoding/currency-api/main/run.js,javascript,74,{'missing semicolon': 33},33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nestjs-cookie-session,https://raw.githubusercontent.com/iamolegga/nestjs-cookie-session/master/jest.config.js,javascript,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rir-statistics,https://raw.githubusercontent.com/rir-statistics/rir-statistics/main/index.js,javascript,182,"{'missing semicolon': 67, 'other error': 2}",67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+scrape-hacker-news-by-domain,https://raw.githubusercontent.com/simonw/scrape-hacker-news-by-domain/main/scrape.js,javascript,25,"{'other error': 1, 'missing semicolon': 1}",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+project-e-commerce-react,https://raw.githubusercontent.com/Bardolog1/project-e-commerce-react/main/vite.config.js,javascript,8,{'missing semicolon': 3},3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Server,https://raw.githubusercontent.com/BM-Warehouse/Server/main/jest.config.js,javascript,14,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+js_project_skeleton,https://raw.githubusercontent.com/junkurihara/js_project_skeleton/develop/jest.config.node.js,javascript,199,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+csc-weather-app,https://raw.githubusercontent.com/RyanFullStack/csc-weather-app/main/vite.config.js,javascript,11,{'missing semicolon': 3},3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+enphaseData,https://raw.githubusercontent.com/andrewdotcom/enphaseData/main/postprocess.js,javascript,19,"{'missing semicolon': 11, 'other error': 2}",11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+postcss-vanilla-extract,https://raw.githubusercontent.com/re-taro/postcss-vanilla-extract/main/eslint.config.js,javascript,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+leetcode-pp-node,https://raw.githubusercontent.com/leetcode-pp/leetcode-pp-node/main/app.js,javascript,98,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bot-tesouro-direto,https://raw.githubusercontent.com/ghostnetrn/bot-tesouro-direto/main/index.js,javascript,2,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tgp-api,https://raw.githubusercontent.com/thegoodparty/tgp-api/develop/app.js,javascript,55,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+create-event,https://raw.githubusercontent.com/kenany/create-event/master/index.js,javascript,161,{'other error': 1},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+cleanup.js,https://raw.githubusercontent.com/nuxodin/cleanup.js/main/mod.js,javascript,3,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+turbo-bucket,https://raw.githubusercontent.com/Small-Ku/turbo-bucket/main/commitlint.config.js,javascript,23,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cspace-ui.js,https://raw.githubusercontent.com/collectionspace/cspace-ui.js/master/mockServiceWorker.js,javascript,304,{'missing semicolon': 76},76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WaBot-OpenAI,https://raw.githubusercontent.com/Setiawan007/WaBot-OpenAI/main/index.js,javascript,292,"{'missing semicolon': 136, 'use restricted word': 1, 'other error': 1}",136,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+docs-site,https://raw.githubusercontent.com/zowe/docs-site/master/docusaurus.config.js,javascript,374,{'other error': 1},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+videomark,https://raw.githubusercontent.com/videomark/videomark/master/vite-plugin-package-extension.js,javascript,123,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+steam-badges-db,https://raw.githubusercontent.com/nolddor/steam-badges-db/main/.eslintrc.js,javascript,27,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+project,https://raw.githubusercontent.com/form8ion/project/master/cucumber.js,javascript,22,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+discord-readme-badge,https://raw.githubusercontent.com/Zyplos/discord-readme-badge/master/.eslintrc.js,javascript,15,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WGU_Cloud_Computing,https://raw.githubusercontent.com/webmastersmith/WGU_Cloud_Computing/main/index.js,javascript,294,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+legacy-scrobbler,https://raw.githubusercontent.com/wistoff/legacy-scrobbler/main/forge.config.js,javascript,107,{'missing semicolon': 6},6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+alainQtec,https://raw.githubusercontent.com/alainQtec/alainQtec/main/jest.config.js,javascript,4,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TireUnblocker,https://raw.githubusercontent.com/Wheels522/TireUnblocker/main/register-sw.js,javascript,31,{'other error': 6},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+cros-updates,https://raw.githubusercontent.com/skylartaylor/cros-updates/master/gatsby-config.js,javascript,11,{'missing semicolon': 1},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+henriquehiga,https://raw.githubusercontent.com/henriquehiga/henriquehiga/main/boostrap-amd.js,javascript,104,"{'other error': 25, 'dot notation': 5}",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,25
+tracky-mouse,https://raw.githubusercontent.com/1j01/tracky-mouse/main/eslint.config.js,javascript,71,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+coryd.dev,https://raw.githubusercontent.com/cdransf/coryd.dev/main/.eleventy.js,javascript,144,"{'missing semicolon': 55, 'module code error': 1}",55,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+risingwave-docs,https://raw.githubusercontent.com/risingwavelabs/risingwave-docs/main/docusaurus.config.js,javascript,271,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gh-hosts,https://raw.githubusercontent.com/fliu2476/gh-hosts/main/constants.js,javascript,33,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ClientModBadges-API,https://raw.githubusercontent.com/domi-btnr/ClientModBadges-API/main/index.js,javascript,72,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+meshery-extensions-packages,https://raw.githubusercontent.com/layer5labs/meshery-extensions-packages/master/cypress.config.js,javascript,29,{'missing semicolon': 3},3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cg-monitor,https://raw.githubusercontent.com/w3c/cg-monitor/main/prepare-data.js,javascript,34,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+crossword,https://raw.githubusercontent.com/rowanmanning/crossword/main/.eslintrc.js,javascript,13,{'other error': 2},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Applio-Bot,https://raw.githubusercontent.com/IAHispano/Applio-Bot/main/index.js,javascript,13,{},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HACKING--MD9,https://raw.githubusercontent.com/HACKING995/HACKING--MD9/main/set.js,javascript,53,{'other error': 2},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
