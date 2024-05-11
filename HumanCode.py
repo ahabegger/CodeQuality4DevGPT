@@ -26,9 +26,9 @@ def fetch_repos(language):
     max_repos = 300  # Set the maximum number of repositories to fetch
     repos = []
     page = 1
-    max_num = 100
+
     while len(repos) < max_repos:
-        url = f"https://api.github.com/search/repositories?q=language:{language}+stars:2..{max_num}&sort=updated&page={page}"
+        url = f"https://api.github.com/search/repositories?q=language:{language}+stars:2..100&sort=updated&page={page}"
         response = requests.get(url, headers=headers)
         if response.status_code == 200:
             rate_limit_remaining = int(response.headers.get('X-RateLimit-Remaining', 0))
@@ -40,11 +40,9 @@ def fetch_repos(language):
                     time.sleep(sleep_time)
             page_data = response.json()['items']
             repos.extend(page_data)
-            if not page_data:  # If there are no more repositories, break out of the loop
-                max_num += 5
-                print(f"Max num increased to {max_num}")
-                continue
             page += 1
+            if not page_data:  # If there are no more repositories, break out of the loop
+                break
         else:
             print(f'Failed to fetch repositories: {response.status_code}')
             break
