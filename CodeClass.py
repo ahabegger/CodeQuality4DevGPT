@@ -174,7 +174,9 @@ class Code:
             with open(filename, "w") as f:
                 f.write(self.code_content)
             # Construct the path to the PMD executable script
-            pmd_script = r"C:\pmd-bin-7.1.0\bin\pmd.bat"
+            # pmd_script = r"C:\pmd-bin-7.1.0\bin\pmd.bat"
+            pmd_script = r"pmd-bin-7.1.0\bin\pmd.bat"
+
             # Run the PMD script with the appropriate arguments
             # pmd.bat check -d c:\src -R rulesets/java/quickstart.xml -f text
             process = subprocess.Popen(
@@ -194,7 +196,9 @@ class Code:
                 f.write(self.code_content)
 
             jshint_path = r"C:\Program Files\nodejs\node.exe"
-            jshint_script = r"C:\Users\alexh\AppData\Roaming\npm\node_modules\jshint\bin\jshint"
+            jshint_script = r"jshint\bin\jshint"
+
+            #jshint_script = r"C:\Users\alexh\AppData\Roaming\npm\node_modules\jshint\bin\jshint"
 
             process = subprocess.Popen([jshint_path, jshint_script, filename], stdout=subprocess.PIPE,
                                        stderr=subprocess.PIPE, env=env)
