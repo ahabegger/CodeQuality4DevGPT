@@ -27,7 +27,7 @@ Further, the findings contribute significantly to understanding the limitations 
 
 ![Comparison of the Error Types and Error Frequency of Java](Study_Information/RQ2_Java.png)
 
-![Comparison of the Error Types and Error Frequency of JavaScript](Study_Information/RQ2_JavaScript.png)
+![Comparison of the Error Types and Error Frequency of JavaScript](Study_Information/RQ2_Javascript.png)
 
 ## Prerequisites
 
